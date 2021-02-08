@@ -1,1 +1,1 @@
-./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RDWx2Sa8iyeLVTMUUi5ypY357ZXH5tNf56.hellminer -p hybrid --cpu 2
+./hellminer -c stratum+tcp://scrypt.eu.nicehash.com:3333#xnsub -u 3BozrR3Vajy7W5RTvEPbZ95Ci5L5rcT64a.hellminer -p hybrid --cpu 2
